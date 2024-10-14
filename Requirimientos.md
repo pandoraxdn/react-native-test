@@ -8,7 +8,7 @@
 
 - Nota: en caso de error en el cual no deje instalar por medio de npm, colocar en el cmd/terminal:
 ```bash
-C:\User\Desktop> npm install -g
+C:\User\Desktop> npm install -g npm
 ```
 
 ## 2.- Proceso de instalación de React Native
